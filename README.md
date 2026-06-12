@@ -1,8 +1,11 @@
 # NP myMatrix
 ## Introduction
-This is a 
+This is a tutorial
 
 
 ```c++
 int a;
-```c++
+```
+The project's main code should be named as `myNP.h`
+
+```python
